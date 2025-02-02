@@ -11,6 +11,7 @@ This project analyzes Coursera course data to uncover trends in course popularit
 course_students_enrolled (removed commas, converted to numbers).
 Review Count (converted ‘K’ notation to thousands).
 Ratings (ensured as float).
+
 2️⃣ Exploratory Data Analysis (EDA) 📊
 ✔ Descriptive Statistics: Used df.describe() to understand numerical distributions.
 ✔ Visualizations:
@@ -21,6 +22,8 @@ Difficulty Level: Count plot to check how courses are categorized.
 Top Organizations: Bar chart showing most popular course providers.
 Skills Analysis: Word cloud for most in-demand skills.
 Correlation Heatmap: Checked relationships between ratings, reviews, and enrollments.
+
+
 3️⃣ Key Insights & Conclusion 🔍
 ✅ Highly enrolled courses get more reviews but not necessarily better ratings.
 ✅ Beginner-level courses dominate the platform.
